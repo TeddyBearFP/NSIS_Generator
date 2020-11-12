@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>views/controls/DriverRow.qml</file>
+        <file>views/controls/RowText.qml</file>
+        <file>icons/tbICON3_128x128.ico</file>
+        <file>database/V0_0.sql</file>
+        <file>database/V1_0.sql</file>
+        <file>database/V1_1.sql</file>
+    </qresource>
+</RCC>
